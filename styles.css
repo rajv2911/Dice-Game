@@ -1,0 +1,38 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #E4E9BE;
+}
+
+h1 {
+  margin: 30px;
+  font-size: 8rem;
+  color: #525E75;
+  
+}
+
+p {
+  font-size: 2rem;
+  color: #525E75;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+
+}
